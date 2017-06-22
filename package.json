@@ -1,0 +1,9 @@
+{
+  "name": "ng-mod-reg",
+  "version": "0.1.0",
+  "description": "Angular module registrator",
+  "main": "dist/index.js",
+  "repository": "https://github.com/jolly-roger/ng-mod-reg.git",
+  "author": "Igor Onyshchenko",
+  "license": "MIT"
+}
